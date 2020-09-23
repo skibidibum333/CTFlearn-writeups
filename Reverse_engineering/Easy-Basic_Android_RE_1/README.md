@@ -11,3 +11,5 @@
 
 ## Solution
 We need to reverse engineer attached .apk file and found the flag.
+I am using OS Kali linux and the tool called jadx. The GUI version.
+
