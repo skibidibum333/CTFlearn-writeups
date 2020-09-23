@@ -25,4 +25,4 @@ For this task I am using https://www.md5online.org/md5-decrypt.html online tool.
 All you need to do is to copy string in quotes and paste it there.
 
 ## FLAG
-> CTFlearn{Spring2019_is_not_secure!}
+> **CTFlearn{Spring2019_is_not_secure!}**
