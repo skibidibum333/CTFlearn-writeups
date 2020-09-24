@@ -53,8 +53,8 @@ a short Python script for bruteforcing all possible combinations until the right
                 print(card)
 
 if __name__=="__main__":
-    karta_v2()```  
-
+    karta_v2()
+```
 
 ## Flag
 > **CTFlearn{5432103279251234}**
