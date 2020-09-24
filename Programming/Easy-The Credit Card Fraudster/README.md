@@ -1,7 +1,7 @@
 # The Credit Card Fraudster
 
 * **Category:** Programming
-* **Points:** 10
+* **Points:** 20
 * **Level:** Easy
 
 ## [Challenge](https://ctflearn.com/challenge/970)
