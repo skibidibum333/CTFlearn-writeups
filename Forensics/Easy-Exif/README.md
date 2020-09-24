@@ -1,7 +1,7 @@
 # Exif
 
 * **Category:** Forensics
-* **Points:** 10
+* **Points:** 
 * **Level:** Easy
 
 ## [Challenge](https://ctflearn.com/challenge/303)
